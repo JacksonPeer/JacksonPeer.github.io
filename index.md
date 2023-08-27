@@ -1,5 +1,4 @@
-  My name is Jackson Peer.
-# [Your Full Name]
+# Jackson Peer
 [Address Line 1] | [Address Line 2] | [City, State, ZIP]  
 [Phone Number] | [Email Address] | [LinkedIn Profile]
 
