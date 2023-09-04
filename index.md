@@ -1,6 +1,6 @@
 # Jackson Peer
-[Address Line 1] | [Address Line 2] | [City, State, ZIP]  
-[Phone Number] | [Email Address] | [LinkedIn Profile]
+[702 Windover Lane] | [Address Line 2] | [Bullard, Texas, 75757]  
+[903-520-8484] | [jacksonrpeer@gmail.com] | [LinkedIn Profile]
 
 ## Summary
 A brief summary of your professional background, skills, and career goals. Tailor this section to the specific position you're applying for.
