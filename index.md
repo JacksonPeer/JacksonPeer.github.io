@@ -6,7 +6,7 @@
 A brief summary of your professional background, skills, and career goals. Tailor this section to the specific position you're applying for.
 
 ## Education
-### [University Name], [City, State]
+### [University of Texas at Tyler], [City, State]
 **[Degree Earned, e.g., Ph.D. in Accounting and Finance]**, [Graduation Date]
 - Relevant Coursework: [List some relevant courses here]
 - Honors: [Any honors or awards]
