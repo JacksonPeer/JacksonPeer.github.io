@@ -1,44 +1,39 @@
 # Jackson Peer
-[702 Windover Lane] | [Address Line 2] | [Bullard, Texas, 75757]  
-[903-520-8484] | [jacksonrpeer@gmail.com] | [LinkedIn Profile]
+[702 Windover Lane] | [Bullard, Texas, 75757]  
+[903-520-8484] | [jacksonrpeer@gmail.com] | [(https://www.linkedin.com/in/jackson-peer-69624121b/)]
 
 ## Summary
-A brief summary of your professional background, skills, and career goals. Tailor this section to the specific position you're applying for.
+I am a first year tax associate at a regioinal firm in Tyler, Texas. I am currently seeking my Master's degree in Accountancy while I work on completing the requirments to be a certified public accountant in the state of Texas. I plan to have a fruitful career in the fields of finance and accounting. 
 
 ## Education
-### [University of Texas at Tyler], [City, State]
-**[Degree Earned, e.g., Ph.D. in Accounting and Finance]**, [Graduation Date]
-- Relevant Coursework: [List some relevant courses here]
-- Honors: [Any honors or awards]
+### [University of Texas at Tyler], [Tyler, Texas]
+**[Bachelor's in Accounting]**, [December 2022]
+- Relevant Coursework: [Income Tax, Auditing, Cost Accounting, Accounting Information Systems]
+- Honors: [Summa Cum Laude]
 
-### [Another University Name], [City, State]
-**[Another Degree Earned]**, [Graduation Date]
-- Relevant Coursework: [List some relevant courses here]
-- Honors: [Any honors or awards]
+### [University of Texas at Tyler], [Tyler, Texas]
+**[Master's in Accounting]**, [August 2024]
+- Relevant Coursework: [Income Tax, Auditing, Data Analytics, NFT Research]
+- Honors: [Cum Laude]
 
 ## Professional Experience
-### [Company Name], [Position Title], [City, State], [Start Date] - [End Date]
-- Responsibility or Achievement 1
-- Responsibility or Achievement 2
-- Responsibility or Achievement 3
+### [Prothro, Wilhelmi, & Company, PLLC], [Tax Associate], [Tyler, Texas], [January 2023] - [Present]
+- Prepared tax returns for dozens of individuals and businesses 
+- Completed preparation of hundreds of year-end information return
+- Responsible for various accounting tasks including reconcilations, financial statements, and bookkeeping
 
-### [Another Company Name], [Position Title], [City, State], [Start Date] - [End Date]
-- Responsibility or Achievement 1
-- Responsibility or Achievement 2
-- Responsibility or Achievement 3
-
-## Publications
-- "[Title of Paper]", *Journal Name*, [Year]
-- "[Another Title]", *Another Journal Name*, [Year]
+### [Christi Dennard, CPA, PLLC], [Professional Assistant], [Tyler, Texas], [January 2020] - [December 2022]
+- Reviewed source documents to accurately enter data to form individual income tax returns for over 200 clients
+- Analyzed various transactions from business clients, executed journal entries, and reconciled bank statements
+- Organized dozens of files daily, maintaining an orderly office environment
 
 ## Skills
-- **Programming Languages:** STATA, Python, SAS
-- **Accounting Software:** [List relevant software here]
-- **Other Skills:** [List other relevant skills here]
+- **Windows:** Excel, Word, Powerpoint
+- **Accounting Software:** [QuickBooks, Lacerte Tax, Drake Tax]
+- **Soft Skills:** [Interpersonal, Communication, Problem-Solving]
 
 ## Certifications
-- [Certification Name], [Issuing Organization], [Date]
-- [Another Certification Name], [Issuing Organization], [Date]
+- [Alteryx Designer Core Certification], [Alteryx], [November 2023]
 
 ## References
 Available upon request.
